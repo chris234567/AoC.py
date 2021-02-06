@@ -2,8 +2,6 @@ with open('day02.txt') as f:
     lines = f.readlines()
 f.close()
 
-# part one
-
 valids = 0
 valids2 = 0
 
