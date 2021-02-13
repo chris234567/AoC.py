@@ -1,9 +1,6 @@
 with open('day05.txt') as f:
     lines = [line.replace('\n', '') for line in f]
 
-for line in lines:
-    print(line)
-
 # binary conversion can be done instead of binary search
 # B equals 1 and F equals 0
 
